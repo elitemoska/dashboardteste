@@ -1,0 +1,15 @@
+# requirements.txt
+Flask
+SQLAlchemy
+requests
+bcrypt
+urllib3
+flask-session
+pyzabbix
+pymongo
+flask-jwt-extended
+Flask-Socketio
+flask-cors
+pymysql
+tenacity
+PyJWT
